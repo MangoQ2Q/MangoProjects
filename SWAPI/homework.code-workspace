@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../lesson"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "homework",
+		"liveServer.settings.port": 5501
+	}
+}
