@@ -1,0 +1,1 @@
+{"version":3,"sources":["header.js","main.js"],"names":[],"mappings":"AAAA;AACA;AACA;ACFA;AACA;AACA","file":"main.js","sourcesContent":["const fn = (arg) => {\n\tconsole.log(arg);\n};","let a = 11\r\nlet b = 5\r\nconsole.log(a + b);"]}
